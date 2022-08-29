@@ -23,3 +23,7 @@ function dragEnd() {
 function dragOver(e) {
     e.preventDefault()
 }
+
+function dragOver(e) {
+    e.preventDefault()
+}
