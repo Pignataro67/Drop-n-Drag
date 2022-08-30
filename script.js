@@ -32,3 +32,8 @@ function dragEnter(e) {
   e.preventDefault()
   this.className += ' hovered'
 }
+
+function dragDrop() {
+  this.className = 'empty'
+  this.append(fill)
+}
