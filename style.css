@@ -16,23 +16,23 @@ body {
   height: 150px;
   width: 150px;
   margin: 10px;
-  border: solid 3px black;
+  border: solid 5px black;
   background: white;
 }
 
 .fill {
   background-image: url('https://source.unsplash.com/random/150x150');
   height: 145px;
-  width: 145px;
+  width: 140px;
   cursor: pointer;
 }
 
 .hold {
-  border: solid 5px #ccc;
+  border: solid 5px #bbb;
 }  
 
 .hovered {
-  background-color: #333;
+  background-color: #323;
   border-color: white;
   border-style: dashed;
 }
