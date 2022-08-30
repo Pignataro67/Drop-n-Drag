@@ -15,20 +15,20 @@ body {
 .empty {
   height: 150px;
   width: 150px;
-  margin: 10px;
+  margin: 15px;
   border: solid 5px black;
   background: white;
 }
 
 .fill {
   background-image: url('https://source.unsplash.com/random/150x150');
-  height: 145px;
+  height: 135px;
   width: 140px;
   cursor: pointer;
 }
 
 .hold {
-  border: solid 5px #bbb;
+  border: solid 7px #bbb;
 }  
 
 .hovered {
